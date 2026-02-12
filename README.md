@@ -1,2 +1,3 @@
 # RP3_Group_11
-Notebook for RP3 sustainable energy. Group 11 had wind and water for phase one and chose wind for phase two. 
+Notebook for RP3 sustainable energy. Group 11 had wind and water for Phase one and chose wind for Phase two. 
+For Phase one, parameters were chosen based on research for both wind and water technoliges for data given. Using intergation, specifically the Trapezoid Rule, then power output could be determined for all technolgies. In Phase two, using similar parameters from Phase one, a toy demand model was made in order to find a storage model that accumulates energy over time. This storage model was then compared to an Ordinary Differential Equation (or ODE) that used random number generation to show the stored energy for our model. 
